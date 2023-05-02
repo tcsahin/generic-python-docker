@@ -5,4 +5,4 @@ class App(object):
         pass
 
     def get_hello_world(self):
-        return "Hello, World"
+        return "Hello, World, TS"
